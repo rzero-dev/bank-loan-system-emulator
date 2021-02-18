@@ -1,0 +1,41 @@
+C:\Users\leudy\OneDrive\Transfer\2020-C-2\Programación II\Programming Projects\Sistema de Préstamos\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\leudy\OneDrive\Transfer\2020-C-2\Programación II\Programming Projects\Sistema de Préstamos\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\leudy\OneDrive\Transfer\2020-C-2\Programación II\Programming Projects\Sistema de Préstamos\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\leudy\OneDrive\Transfer\2020-C-2\Programación II\Programming Projects\Sistema de Préstamos\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\leudy\OneDrive\Transfer\2020-C-2\Programación II\Programming Projects\Sistema de Préstamos\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.P_Cliente.resources
+C:\Users\leudy\OneDrive\Transfer\2020-C-2\Programación II\Programming Projects\Sistema de Préstamos\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.P_Prestamo.resources
+C:\Users\leudy\OneDrive\Transfer\2020-C-2\Programación II\Programming Projects\Sistema de Préstamos\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\leudy\OneDrive\Transfer\2020-C-2\Programación II\Programming Projects\Sistema de Préstamos\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.P_DataBank.resources
+C:\Users\leudy\OneDrive\Transfer\2020-C-2\Programación II\Programming Projects\Sistema de Préstamos\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\leudy\OneDrive\Transfer\2020-C-2\Programación II\Programming Projects\Sistema de Préstamos\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\leudy\OneDrive\Transfer\2020-C-2\Programación II\Programming Projects\Sistema de Préstamos\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\leudy\OneDrive\Transfer\2020-C-2\Programación II\Programming Projects\Sistema de Préstamos\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\leudy\OneDrive\Transfer\2020-C-2\Programación II\Programming Projects\Sistema de Préstamos\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.P_Consultar.resources
+C:\Users\leudy\OneDrive\Transfer\2020-C-2\Programación II\Programming Projects\Sistema de Préstamos\Solution1\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\leudy\OneDrive\Transfer\2020-C-2\Programación II\Programming Projects\Sistema de Préstamos\Solution1\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\leudy\OneDrive\Transfer\2020-C-2\Programación II\Programming Projects\Sistema de Préstamos\Solution1\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\leudy\OneDrive\Transfer\2020-C-2\Programación II\Programming Projects\Sistema de Préstamos\Solution1\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\leudy\OneDrive\Transfer\2020-C-2\Programación II\Programming Projects\Sistema de Préstamos\Solution1\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\leudy\OneDrive\Transfer\2020-C-2\Programación II\Programming Projects\Sistema de Préstamos\Solution1\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\leudy\OneDrive\Transfer\2020-C-2\Programación II\Programming Projects\Sistema de Préstamos\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\leudy\Desktop\Sistema de Préstamos\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\leudy\Desktop\Sistema de Préstamos\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\leudy\Desktop\Sistema de Préstamos\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\leudy\Desktop\Sistema de Préstamos\Solution1\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\leudy\Desktop\Sistema de Préstamos\Solution1\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\leudy\Desktop\Sistema de Préstamos\Solution1\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\leudy\Desktop\Sistema de Préstamos\Solution1\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\leudy\Desktop\Sistema de Préstamos\Solution1\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\leudy\Desktop\Sistema de Préstamos\Solution1\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\leudy\Desktop\Sistema de Préstamos\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\leudy\Desktop\Sistema de Préstamos\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.P_Cliente.resources
+C:\Users\leudy\Desktop\Sistema de Préstamos\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.P_Consultar.resources
+C:\Users\leudy\Desktop\Sistema de Préstamos\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.P_Prestamo.resources
+C:\Users\leudy\Desktop\Sistema de Préstamos\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\leudy\Desktop\Sistema de Préstamos\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.P_DataBank.resources
+C:\Users\leudy\Desktop\Sistema de Préstamos\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\leudy\Desktop\Sistema de Préstamos\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\leudy\Desktop\Sistema de Préstamos\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\leudy\Desktop\Sistema de Préstamos\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\leudy\Desktop\Sistema de Préstamos\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\leudy\Desktop\Sistema de Préstamos\Solution1\CapaPresentacion\bin\Debug\Bunifu_UI_v1.52.dll
